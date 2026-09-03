@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "orientation": "portrait",
+    "plugins": [
+      "expo-asset",
+      "expo-font",
+      "expo-splash-screen",
+      "expo-status-bar"
+    ]
+  }
+}
