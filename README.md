@@ -1,4 +1,4 @@
-# SEOpenCourtFinal
+# OpenCourt Application
 
 How to run correctly:
 1. Open up the correct code. The current release is always on "main".
